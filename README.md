@@ -1,5 +1,7 @@
 # Outstanding
 
+This repository contains the ongoing development of a KMP application for an alternative social/marketing platform. The project was originally prototyped by [@tavro](https://tavro.se) and [@parslie](https://parslie.github.io) as part of a university course and later reimagined as a hobby project. The goal of this repository is to evolve that prototype into a finalized open-source implementation.
+
 ## Software Architecture Ideas
 
 ### Technology Stack
