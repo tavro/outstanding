@@ -129,9 +129,9 @@ Each feature should follow this pattern:
 
 ### Networking
 
-```
-  Ktor + Ktorfit for REST APIs:
+Ktor + Ktorfit for REST APIs
 
+```
   @Ktorfit
   interface ExampleApi {
       @POST("/v1/examples")
